@@ -9,7 +9,24 @@ I'm here to demistify product management.
 
 What is product management? Read a brief [overarching definition](definitions/overarching) or specific ones for [engineers](definitions/for-engineers), [designers](definitions/for-designers), [marketers](definitions/for-marketers), [<em>project</em> managers](definitions/for-project-managers), or [executives](definitions/for-executives).
 
-### The Basics
+### Product Strategy
 
-* [Team structure - how many product managers, designers, and engineers in a pod?](basics/team-structure)
-* [When should we hire a product manager?](basics/when-to-hire-a-product-manager)
+* [I'm supposed to make a new product; what should I do?](strategy/new-product-development)
+* [How and why to break down your assumptions](strategy/assumptions)
+* [How and why to map your ecosystem](strategy/ecosystem-map)
+
+### Understanding Your Market
+
+* [What research techniques should I use?](research/what-techniques)
+* [How do I run a good user interview?](research/user-interviews)
+
+### Team Growth and Dynamics
+
+* [Are PMs mini-CEOs or soft-power influencers?](team/mini-ceo-or-soft-power)
+* [Team structure - how many product managers, designers, and engineers in a pod?](team/team-structure)
+* [When should we hire a product manager?](team/when-to-hire-a-product-manager)
+
+### Process and Tools
+
+* [Sprints for product work](process/sprints-for-product-work)
+* [Get systematic in tracking user needs](process/systematic-user-needs)
