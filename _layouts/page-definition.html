@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h2>
+      <a href=".">Definitions</a>:
+      {{ page.title | escape }}
+    </h2>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <hr/>
+  <p>
+    That's one definition. What's next? See <a href="{{ "/definitions" | relative_url}}">more definitions</a> or <a href="{{ "/" | relative_url}}">go back to the home page</a>.
+  </p>
+
+</article>

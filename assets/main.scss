@@ -55,3 +55,10 @@ $brand-color:      #1741BA;
 main { background-color: $main-background-color; }
 .page-content ul { margin-bottom: 15px !important; }
 .page-content hr { margin-bottom: 15px !important; color: $grey-color-light; }
+
+.site-title small {
+    font-size: $small-font-size;
+    line-height: $small-font-size * 2;
+    color: $grey-color;
+    margin-left: $spacing-unit / 2;
+}
