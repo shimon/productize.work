@@ -32,7 +32,7 @@ $brand-color:      #1741BA;
 // now load the theme
 @import "{{ site.theme }}";
 
-
+a:visited { color: purple; }
 
 // override footer sizes
 .footer-col-1 {

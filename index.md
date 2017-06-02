@@ -7,7 +7,7 @@ layout: home
 
 I'm here to demistify product management.
 
-What is product management? Read a brief [overarching definition](definitions/overarching) or specific ones for [engineers](definitions/for-engineers), [designers](definitions/for-designers), [marketers](definitions/for-marketers), [<em>project</em> managers](definitions/for-project-managers), or [executives](definitions/for-executives).
+**What is product management?** Read an [overarching definition](definitions/overarching) or specific ones for [engineers](definitions/for-engineers), [designers](definitions/for-designers), [marketers](definitions/for-marketers), [<em>project</em> managers](definitions/for-project-managers), or [executives](definitions/for-executives).
 
 ### Product Strategy
 
@@ -17,14 +17,16 @@ What is product management? Read a brief [overarching definition](definitions/ov
 
 ### Understanding Your Market
 
-* [What research techniques should I use?](research/what-techniques)
-* [How do I run a good user interview?](research/user-interviews)
+* [What research techniques should I use?](/research/what-techniques)
+* [How do I run a good user interview?](/research/user-interviews)
 
 ### Team Growth and Dynamics
 
-* [Are PMs mini-CEOs or soft-power influencers?](team/mini-ceo-or-soft-power)
-* [Team structure - how many product managers, designers, and engineers in a pod?](team/team-structure)
-* [When should we hire a product manager?](team/when-to-hire-a-product-manager)
+* [Should PM responsibility be concentrated in one person/team or shared?](/team/should-product-management-be-concentrated-or-shared)
+* [Are PMs mini-CEOs or soft-power influencers?](/team/mini-ceo-or-soft-power)
+* [Team structure - how many product managers, designers, and engineers in a pod?](/team/team-structure)
+* [When should we hire a product manager?](/team/when-to-hire-a-product-manager)
+* [Making the transition from engineer to product manager](/team/engineer-to-product-manager)
 
 ### Process and Tools
 
