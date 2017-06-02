@@ -35,7 +35,7 @@ The *product management* of a project is successful when the project meets the R
 For example, suppose PM says to eng "I want a flying car":
 
 * If eng says "we can build that in 2 weeks for $10k no problem" and fails, that's an engineering failure because their estimate was ridiculous.
-* If eng says "we have no clue how to do that" and PM says "fuck you do it by Monday", that's a PM failure because they've neglected feasibility.
+* If eng says "we have no clue how to do that" and PM says "screw you do it by Monday", that's a PM failure because they've neglected feasibility.
 * If eng says "that could take 2-10 years and cost $1-10B" and PM says "that's too much, what can we do this month" and they figure out that putting racing stripes on a used Prius will basically work, then that's a *big win* for everyone.
 
 ### Responsibility vs. Role
