@@ -18,5 +18,10 @@ layout: default
   <p>
     That's one definition. What's next? See <a href="{{ "/definitions" | relative_url}}">more definitions</a> or <a href="{{ "/" | relative_url}}">go back to the home page</a>.
   </p>
+  <hr/>
+
+  {% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+  {% endif %}
 
 </article>

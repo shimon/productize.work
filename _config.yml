@@ -31,6 +31,10 @@ footer-links:
   #facebook: shimonrura
   rss: hell yeah
 
+# comments
+disqus:
+  shortname: productize-work
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -39,3 +43,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
