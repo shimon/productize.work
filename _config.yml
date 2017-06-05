@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   product management to do better work.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://productize.work" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "UA-100410870-1"
 
 # footer links
